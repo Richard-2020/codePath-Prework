@@ -47,16 +47,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I got some from stackOverflow, from www.w3schools, and I also asked my roommate for some ideas.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I had a really fun time creating this game, it got me more interested in learning JavaScript and HTML. I created my first website in HTML and CSS hen I was 15 years old and JavaScript was the first programing language I self-taught myself as a teen. Even though I had prior knowledge before, I realized that JavaScript is very broad and there are many things JavaScript can do that I had no idea it could. Soon, I plan on creating various JavaScript applications. This application would need to register and store users’ data like a webserver of some sort. Is it possible to develop the application or website using JavaScript or possibly Node.js?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time, I would spend it on adding more features in order to implement more functionality for the buttons such as when the user wins, all the buttons would spin in 360-degree angle. Then when the user loses, the buttons would collapse. To implement this, I would use java scripts animation features. I would also add an additional feature for when the user wins, a confetti could be shot and the entire screen would be filled with different colors from the confetti to congratulate the user. I would spend some time implementing various levels of difficulty as well like easy, medium or hard. Going from easy to hard would increase the speed of time the timer run and length of the pattern as well. The timer could then end the game if it reaches zero. I would also create a variable storing the number of wrong guesses until it reaches a certain number for the game to end.
 
 
 
