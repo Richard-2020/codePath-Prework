@@ -45,7 +45,7 @@ What questions about web development do you have after completing your submissio
 If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) I would spend more time on the game logic. I felt as though i needed more time to implement and at the same time add on top of the logic that was provided. I would implement sequences mimicing a song just for fun, if the song beat is recognized by the user, the user will do better. I would also add levels of difficulty creating longer songs. Monitoringthe users response time would also be a goood implementation.
 
 Interview Recording URL Link
-My 5-minute Interview Recording https://drive.google.com/file/d/1SDpWF4mzHjPfBM9FxwkhejVTjvo31C_s/view?usp=sharing
+My 5-minute Interview Recording https://drive.google.com/file/d/1_yCvlwg_vVPntTjjofYpnIojhjMgyh2D/view?usp=sharing
 
 License
 Copyright [Richard Rangala]
