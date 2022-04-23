@@ -7,6 +7,7 @@ Submitted by: **Richard Rangala**
 Time spent: **8** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com/edit/#!/flint-handsomely-increase?path=README.md%3A1%3A0
+Code Site : https://flint-handsomely-increase.glitch.me/
 
 ## Required Functionality
 
