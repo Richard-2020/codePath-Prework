@@ -1,0 +1,116 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: white;
+  color: black;
+}
+h1{
+  font-family: verdana, arial, sans-serif;
+}
+#decBtn, #incBtn{
+  padding: 5px;
+  border-radius:10px;
+}
+
+#button1, #button2, #button3, #button4, #button5, #button6, #button7, #button8, #button9{
+  padding: 30px;
+  border-radius: 10px;
+}
+#button1{
+  background: lightgreen;
+}
+#button1:active, #button1.lit{
+  background: green;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/MoreVibrantPic.jpg?v=1650498163832);
+}
+#button2{
+  background: lightblue;
+}
+#button2:active, #button2.lit{
+  background: blue;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/colorFulBGPicture.jpg?v=1650498030734);
+}
+#button3{
+  background: pink;
+
+}
+#button3:active, #button3.lit{
+  background: red;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/ColorfullPic.jpg?v=1650498105909);
+}
+#button4{
+  background: lightyellow;
+}
+#button4:active, #button4.lit{
+  background: yellow;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/Gold-stack.webp?v=1650491917874);
+}
+#button5{
+  background: Bisque;
+}
+#button5:active, #button2.lit{
+  background: Chocolate;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/colorFulBGPicture.jpg?v=1650498030734);
+}
+#button6{
+  background: coral;
+}
+#button6:active, #button2.lit{
+  background: crimson;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/colorfulPatterns.jpg?v=1650567255428);
+}
+#button7{
+  background: darkgreen;
+}
+#button7:active, #button2.lit{
+  background: darkmagenta;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/abstractPicGeo.jpg?v=1650567312733);
+}
+#button8{
+  background: deeppink;
+}
+#button8:active, #button2.lit{
+  background: dodgerblue;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/geometricalPics.jpeg?v=1650567332362);
+}
+#button9{
+  background: firebrick;
+}
+#button9:active, #button2.lit{
+  background: forestgreen;
+  background-image: url(https://cdn.glitch.global/acdf3ae7-bc64-43bd-9091-3328c2978f69/pcsCrsta.webp?v=1650567368984);
+}
+#gameButtonArea > button{
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden{
+  display: none;
+}
+
+.maxed{
+  background: #e63946;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
